@@ -4,9 +4,9 @@ using Interfaces;
 public class Pet: Animal, IRegisterable
 {
     public string Race { get; set; }
-    private Patient Owner { get; set; }
+    private string Owner { get; set; }
 
-    public Pet(string petName, string species, string race, int age, Patient owner): base(petName, age, species)
+    public Pet(string petName, string species, string race, int age, string owner): base(petName, age, species)
     {
         Race = race;
         Owner = owner;
@@ -38,6 +38,6 @@ public class Pet: Animal, IRegisterable
     
     public void Register()
     {
-        throw new NotImplementedException();
+        Console.WriteLine("Pets cannot register by themselves...");
     }
 }
