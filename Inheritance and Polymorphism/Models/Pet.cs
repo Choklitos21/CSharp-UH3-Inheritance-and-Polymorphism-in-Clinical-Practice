@@ -1,7 +1,8 @@
-﻿namespace Inheritance_and_Polymorphism.Models;
-using Interfaces;
+﻿using Inheritance_and_Polymorphism.Interfaces;
 
-public class Pet: Animal, IRegisterable
+namespace Inheritance_and_Polymorphism.Models;
+
+public class Pet: Animal, IRegistrable
 {
     public string Race { get; set; }
     private string Owner { get; set; }
@@ -23,16 +24,16 @@ public class Pet: Animal, IRegisterable
 
     public override void MakeNoise()
     {
-        if (Race == "dog")
+        if (Species == "dog")
         {
             Console.WriteLine("The dog Barks!");
-        } else if (Race == "cat")
+        } else if (Species == "cat")
         {
             Console.WriteLine("The cat Meows!");
         }
         else
         {
-            Console.WriteLine($"This {Race} makes a weird noise...");
+            Console.WriteLine($"This {Species} makes a weird noise...");
         }
     }
     

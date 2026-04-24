@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Inheritance and Polymorphism/1.0.0": {
+        "runtime": {
+          "Inheritance and Polymorphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance and Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

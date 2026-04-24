@@ -1,0 +1,15 @@
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\bin\Debug\net10.0\Inheritance and Polymorphism.exe
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\bin\Debug\net10.0\Inheritance and Polymorphism.deps.json
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\bin\Debug\net10.0\Inheritance and Polymorphism.runtimeconfig.json
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\bin\Debug\net10.0\Inheritance and Polymorphism.dll
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\bin\Debug\net10.0\Inheritance and Polymorphism.pdb
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\Inheritance and Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\Inheritance and Polymorphism.AssemblyInfoInputs.cache
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\Inheritance and Polymorphism.AssemblyInfo.cs
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\Inheritance and Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\Inheritance and Polymorphism.sourcelink.json
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\Inheritance and Polymorphism.dll
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\refint\Inheritance and Polymorphism.dll
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\Inheritance and Polymorphism.pdb
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\Inheritance and Polymorphism.genruntimeconfig.cache
+C:\Users\diego\Development\Riwi\Code\Advance Route\Week 3\UH\Inheritance and Polymorphism\Inheritance and Polymorphism\obj\Debug\net10.0\ref\Inheritance and Polymorphism.dll
